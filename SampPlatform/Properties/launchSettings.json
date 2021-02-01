@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SampPlatform": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Programming\\SampPlatform\\env\\samp-server.exe",
+      "workingDirectory": "E:\\Programming\\SampPlatform\\env"
+    }
+  }
+}
